@@ -1,0 +1,186 @@
+
+12 Ways to Stay Productive in Slack
+
+            
+        
+                    
+            Matthew Guay / February 21, 2017          
+        
+      
+                              
+Slack is designed to replace your inbox and be the one place where all your communications would happen, keeping you and your team productive and informed all at the same time. But, like all communication tools, it can also be a distraction.
+Don't despair. You can still use Slack productively without being drawn into distracting discussion rabbit holes. Here's how to get the most out of your team's Slack conversations, without wasting your entire day keeping up with your team's Slack channels.
+The Slack Overload Problem
+
+  
+
+  
+Goodbye busy email inbox, hello Slack overload!
+Try to combine every message from everyone on your team！along with notifications from your apps and Slack bots！into one spot, and it's only a matter of time before things get out of control. If you're part of a distributed team working in different time zones, chances are no matter when you start work for the day there'll be conversations that happened while you were gone. Sometimes, there will be a lot of them. It's not that uncommon for me to have 30 mentions or direct messages waiting when I wake up because I work in the Indochina timezone while most others on the Zapier team don't. 
+Combine that with the common fear of missing out (FOMO), and you'll want to not only read your mentions but also might like to catch up on the chit chat in #general. That's fine！but it's highly unlikely you're being paid just to read Slack all day. It's easy to recognize that social networks like Facebook and Twitter are distracting, but Slack！something we classify as productive by default since it's used with teams！can be just as distracting if you're not careful.
+So how do you stay up to date on what everyone's talking about, join in on conversations with remote colleagues you'd otherwise miss out on, and stay focused on your real job? Here's the strategy:
+Quickly Catch Up on Conversations in Slack
+
+With your whole team chatting in Slack, there will always be more conversations than you could ever be part of in real life. You're just as limited online！you don't have unlimited time and need to go through conversations as quickly as possible. These tips should help.
+Use All Unread's scientific order
+
+  
+
+  
+Everything you haven't read, in one place. It's a chat candy store.
+When you first open Slack for the day！or after being away from Slack for a while！the first temptation is to tap each channel and catch up on what's happened. That's a great way to waste the first part of your day without doing anything actionable.
+There's a better way. All Unreads, a Slack feature launched in September 2016, shows all the messages you haven't read from all your channels in one place. The same features are there！you can react to messages with emoji, start a new thread to continue the conversation (more on that in a minute), or star the message to remember it. You can even click on the message's timestamp to jump to that moment in the channel's chat conversation if you want.
+The biggest difference is it's fast. Know how when you're trying to scroll up to see unread messages in a long channel and sometimes you go too far? That'll never happen in All Unreads.
+You can browse unread channels alphabetically or by those with the newest or oldest messages. The best way, though, is to use Slack's Scientific order. That shows the channels in the order Slack thinks they're most important to you！and it's pretty good at getting it right.
+Some channels won't matter that much. To hide them！now and in the future！just tap the channel's name in the list to hide its messages. Then use your left and right arrow keys to jump to the next unread channel in the list, and tap r to mark everything as read.
+Or just click the Mark All Messages Read button at the bottom. Trust me, it feels good.
+  
+
+  
+Now, leave Slack on that All Unread page, and go back to work. When something new comes in, Slack will update the page to show how many messages you have to read. Tap your return key, read the message, press r to clear it, and go back to work again.
+Tip: Can't find All Unreads? Turn it on from Preferences -> Advanced -> Channel List.
+Browse channels by conversation groups
+
+  
+
+  
+Slack isn't smart enough to locate conversations！but you are.
+Want to read all your unread messages the old fashioned way, right inside the channel? Slack includes two tools to help you out: a red line marking the last thing you've read and a grey line breaking up days (based on your current timezone). Those help you figure out what to read, but how can you quickly browse through 100+ messages and figure out what was discussed?
+You'll have to rely a bit on your own intuition！and your team's communication style. At Zapier, we use reaction emoji in Slack a ton, enough that we've added an entire family of party parrots. So when something new and big happens！or someone says something funny or snarky！odds are it'll get a lot of reaction emoji. That simplifies your job: Just browse through Slack's unread messages, and pause to read anything with a line of emoji. You can even search by emoji to find messages with emoji your team tends to use for reactions as a shortcut.
+Beyond that, you can typically tell conversation stops and starts with longer posts or images starting a conversation and short replies finishing it off. That rhythm and flow feel obvious enough in Zapier's chat that I actually thought Slack had an indicator when there was a large time gap between conversations (something else you could look for to identify unique discussions). Nope: I was just picking out our team's chat style.
+Tip: Need more emoji in your Slack? Here's how to become an emoji pro with tips on how to use them productively.
+Read all mentions together
+
+  
+
+  
+It's a list of your notifications in one place
+All Unreads still has the information overload problem: You'll get every random conversation that happened while you were away. For a more actionable unread list, open Slack's Activity pane by clicking the @ button in the top right. That'll show all of your mentions, along with emoji reactions from others to things you posted！something you'd miss out on otherwise.
+Once you're done with that, and have replied to all of your direct messages, tap CMD+esc to clear out all of your unread messages at once. You'll lose the random conversations, but you'll quickly catch up on everything that directly involves you.
+Learn Slack's keyboard shortcuts
+
+  
+
+  
+Shift+Esc for instant Slack Zero
+Ask the Zapier team for tips on how they manage Slack！and other productivity apps！and keyboard shortcuts come up in almost every reply. They're the quickest way to clear through unread messages, switch between channels, edit your last message, and more.
+Here are some of the best time-saving shortcuts！or check Slack's Keyboard Shortcut list for the rest:
+* Clear unread messages in a channel: Esc
+* Clear all unread messages: Shift+Esc
+* Go to previous channel or DM: CMD+[ or Ctrl+[
+* Go to next unread channel or DM: Alt+Shift+up arrow
+* Open All Unreads: CMD+Shift+A or Ctrl+Shift+A
+* Open starred messages: CMD+Shift+S or Ctrl+Shift+S
+* Open All Threads: CMD+Shift+T or Ctrl+Shift+T
+* See all of Slack's keyboard shortcuts: CMD+/ or CTRL+/
+  
+
+  
+Then there's the best Slack shortcut: CMD+T or Ctrl+T. That opens the conversation search box, where you can type the name of a channel or DM and jump to it in seconds. To search through messages themselves, CMD+F or Ctrl+F will take you to the search box just like in most apps. With Slack's advanced search filters, you can use it to find pretty much anything！a bit of insurance that you won't miss out even if you don't read everything.
+Tip: Get more out of search with our guide to Slack's hidden search features.
+Tame Your Slack Notifications
+
+You shouldn't spend your day jumping back and forth between Slack and your other tools just because of notifications. Now that you're caught up on your conversations, it's time to think about how many of those notifications you really need！and then turn off those you don't need.
+Turn off the red dot
+
+  
+
+  
+Once you've emptied your Slack queue and are back to work, there's one thing that's most likely to pull you back in: The red dot. Perhaps the most insidious thing about notifications is that they make you feel like you have to do something about them. That little red notification dot can be useful if you're urgently waiting on a reply. The rest of the time, it's just tempting you to check Slack, reminding you that there's something new you haven't read yet.
+So turn it off. Go to Slack Preferences -> Notification Settings, and uncheck the Show . symbol on icon to indicate unread activity. And enjoy the peace. You'll now only see the red dot with a number whenever you get mentions or direct messages.
+Rely on email notifications
+
+  
+
+  
+Email will never die. Ever.
+Slack's surprisingly smart about your more important notifications. Have Slack open on your desktop, and it'll send notifications there！and not to your phone！even if you've turned off the red dot. If you quit Slack there or are idle too long, it'll start pinging your phone again. And once you're offline on both for a while, it'll send all new notifications in an email digest.
+Those emails are perhaps the best way to catch up on Slack if you're away for a while. You'll get all of your notifications！including mentions and highlight words！in emails that try to combine notifications that happen near each other to not overwhelm your inbox. And you can jump to that spot in the conversation right from the message's date stamp, just as in All Unread.
+Tip: Want to tweak your Slack push and email notification settings? Open your online Slack settings at slack.com/account/notifications！that's where you'll find most of Slack's advanced settings.
+Turn on Do Not Disturb mode
+
+  
+
+  
+It's like nighttime mode for Slack.
+Or maybe you don't want to be notified about anything, and would rather catch up from Slack's All Unread when you start work. Just click the bell icon in the top right of Slack, and you'll turn every notification off. Slack will still show your mentions and messages inside the app, but you won't get any push notifications, emails, or red dots until you tap that bell icon again.
+If you want the quiet of zero notifications all the time when you're not at work, you can schedule Do Not Disturb from your Slack Notifications settings. Just click the checkbox, and set the time when you don't want notifications. Then don't worry about your phone dinging with a work message during a movie again.
+Finish Your Slack Discussions
+
+One of the reasons you'll feel like you have to read everything in Slack is because otherwise, you might miss something a coworker said to you or mentioned about your project while you were away. Some of Slack's newest features can help there, keeping your most important conversations in one place so you can read them without worrying about everything else.
+Always reply in threads
+
+  
+
+  
+Slack's new Threads feature is the best way to continue conversations
+Now that you've cleared out your unreads and figured out how to quit getting notified so often, it's time to think about how you'll use Slack going forward without getting message overload syndrome again. You're in luck: Slack's latest new feature, threaded messages, is perfect for that.
+Essentially, threaded messages lets you reply to a message on Slack without that message showing up in the main chat stream. Just click the chat bubble icon on a message to start a new thread, and add your reply there instead of @mentioning the person in normal chat. They'll get notified of your reply, and all subsequent replies will be kept there in one tidy list.
+You can then catch up on all of your threads！along with any threaded replies others have added to your posts！from the All Threads list right under All Unreads. You can quickly reply to the thread right there！a one-up on the normal unreads view！and keep the whole conversation there for easy reference.
+Want to keep up with threads that don't mention you, or wondering if a conversation will get started about a message someone else posted? Just click the ... button and select Follow this message, and it'll show up in your All Threads list if any replies are added.
+Tip: Another great way to keep replies together and keep them focused is with a quick emoji poll. Ask a question, and have people add one emoji reaction for one answer, and another reaction emoji for the other！and tally up the results. Or use Slack app Simple Poll to make it even simpler. 
+Get notified of the most important conversations
+
+  
+
+  
+Slack highlight words are an easy way to snoop on every conversation.
+FOMO is hard to kick！but it's a valid fear when colleagues are discussing something you're responsible for, and you don't notice the conversation and thus don't join in.
+You don't have to read every message in every channel, though. Instead, let Slack help. Whenever someone mentions you in a Slack channel you're in, it'll notify you as normal. If they mention you in a channel you're not in, Slack will tell them you didn't get notified and ask if they want to notify you. That helps.
+For everything else, rely on Highlight Words. Open your Notification settings again, and add a list of words that you want to know whenever they're mentioned. I'm responsible for Zapier's books and reviews and want to know when someone talks about them because often they're mentioning something that needs updated. And I'm a photography, writing apps, and information architecture geek, so I could add those terms to find conversations I'd want to be part of. You could also add variants of your own name; people might mention Matthew or Matt when they're mentioning something I've worked on, so it'd make sense to include both in my highlight words. Add the terms that make sense for you！just don't make them too broad, or you'll get notified about everything.
+Star messages to get reminded about them
+
+  
+
+  
+Don't make a new task！let Slack remind you automatically
+Not ready to reply to something right now? Or want to make sure you remember to follow up on something later? There are two great ways to do that in Slack！both of which let you clear the notification for now and forget about the message until you're ready to deal with it.
+First, Slack's built-in Remind me feature can send you a Slack notification later！anywhere from 20 minutes from now until next week！about any message. Just click the ... button beside a message, select Remind me about this and the time you want, and you'll get a Slack notification about it then.
+The second option is my favorite: Star a message. Whenever you see a message you want to followup on, tap the star icon beside it, and Slack will save it to the star menu (which you can open from the top menubar). Or use Slack's Zapier integration to create a new task or reminder in your to-do list or calendar app whenever you star a message. That's how I make my daily to-do list in minutes from the tasks others ask me to do in Slack.
+Add new starred Slack messages to Todoist as tasks
+                Use this Zap              
+Create OmniFocus tasks from new starred Slack messages
+                Use this Zap              
+Create Trello cards from new starred Slack messages
+                Use this Zap              
+Tip: Another way to resurface messages in the future is to add a specific emoji to them, say a :blue-book: emoji or something else not used often. Then, search for that emoji, and you'll re-find everything you posted with it！a great way to find important messages without having to star your own stuff.
+Manage and Optimize Your Slack Channels
+
+Now, it's time to organize Slack itself to keep you focused and productive, so you don't spend each day thinking through the other steps.
+Be picky about your sidebar
+
+  
+
+  
+Hide all the clutter
+Perhaps the best way to not be overwhelmed with all the unread messages is to be in fewer channels. But maybe your team has some fun, yet rarely used channels, like a monthly book club or a gif-only #snacking channel. You want to see the messages there！but perhaps you don't need them distracting you all the time.
+Slack Advanced settings to the rescue. Open your advanced settings (in Preferences > Advanced), scroll to the Channel List setting, and then choose to show everything, just unread channels and DMs, or unread plus starred channels. The latter works well for me: It keeps my most important channels available (hi #marketing and #editorial!) while hiding #snacking unless there's a new gif there.
+Along with that, though, you should purge your channel list. You might need to occasionally chat with another team about their project, but if it's not your core responsibility, feel free to leave the channel and quit having it show up in Unread. You can always jump back in anytime you want！and follow your own mentions there with highlight words.
+Mute the channels you don't need often
+
+  
+
+  
+Mute lets you halfway leave a channel
+Don't want to leave a channel, but also don't want to see every message in it? Just mute it. That'll keep you as a member of the channel, without getting notified of unread messages or mentions.
+To mute a channel, click the gear icon in the top corner of that channel and select Mute #channel_name. Its name will then be faded out in your sidebar！you can still see and open the channel, but won't get notified about mentions or unread messages in it.
+  
+
+  
+Alternately, you can set each channel's notifications in your Slack advanced settings online at slack.com/account/notifications. There you can set whether you'll get notified about mentions, everything, or nothing for each channel on mobile and desktop！a good way to make your own custom mute settings for channels where you, say, only want to be notified about mentions.
+Carefully define each channel's focus
+
+  
+
+  
+Zapier's channel names include a topic and category
+This final tip is one that you can't implement on your own, perhaps, but it is one you can sell your team on and use in channels you create. That is, keep channels focused. 
+It's likely better to have too many channels, each about a very narrow topic, than a handful of broad channels where everyone's trying to figure out who's talking about what. Set the channel's purpose in the Topic box at the top, and stick to it. Slack even recommends using a specific emoji to flag off-topic messages, a step that's a bit drastic but that might cut down on unnecessary red dots.
+Then name your channels in a way that they're easy to browse. A tip we've copied from other teams including the Slack team is including a topic and category in most non-core channel names, such as #fun- before each non-work channel and #feed- before each notification-related channel. That'll help you manage the extra channels as you move more conversations off of #general.
+For the channels where you want to guarantee there's no unnecessary chatter, admins can even restrict who can post to that channel！perhaps for a notifications channel where only bots and bosses can share new announcements. That's another tip from the Slack team that can keep your chats focused.
+Finally, never be afraid to archive channels. Don't archive your important channels, obviously, but if your book club has died, it might be time to archive #fun-bookclub. It's just another bit of clutter that's keeping you distracted in Slack！and the old messages will still be available via search if you ever need them.
+Tame Slack and Get More Done
+
+There are more drastic solutions too. You could ignore mentions by default, as our platform engineer Bruno does, and only read those from your private messages and starred, most important channels. You could even ignore everything that happens in Slack when you're not around, as our customer champion Paolo does, and rely on search to bring conversations back to life when you need them. Or you could take product marketer Sean's approach, relying on the Activity sidebar plus emoji bookmarks to surface the most important info.
+Either way, the important thing is finding what works for you！and being honest with yourself when Slack's taking up too much time. Figure out the balance between using Slack to stay in touch with your team when you need each other and preventing Slack from getting your work done efficiently. And turn off that red dot！it's definitely not helping.
+      

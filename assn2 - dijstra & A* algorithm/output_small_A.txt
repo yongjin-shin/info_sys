@@ -1,0 +1,6 @@
+Distance: 378.632	Time: 18ms	Start Node: Node_4	End Node: Node_16
+Node	x_coordinate	y_coordinate	distance to next node
+Node_4	481	284	69.6419
+Node_7	462	351	125.028
+Node_9	478	475	183.962
+Node_16	317	386	
